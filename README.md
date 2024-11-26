@@ -1,2 +1,2 @@
 # PythonTutorial
-This is a copy of python tutorials 
+This is a copy of c++ tutorials 
